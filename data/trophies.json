@@ -1,0 +1,74 @@
+{
+  "u19_2008": {
+    "trophyName": "ICC Under-19 Cricket World Cup",
+    "competition": "ICC Under-19 World Cup",
+    "year": "2008",
+    "careerStage": "Youth Debut / Raw Prodigy",
+    "historicalImportance": "The launching pad of the legend. Captained India U19 to a historic title in Malaysia, announcing his leadership ability and batting talent to the world.",
+    "emotionalImpact": "Hope and prophecy. The beginning of a long journey of expectation and leadership.",
+    "recommendedSection": "Life Journey (The Road to Greatness Timeline)"
+  },
+  "world_cup_2011": {
+    "trophyName": "ICC Cricket World Cup",
+    "competition": "ICC Cricket World Cup",
+    "year": "2011",
+    "careerStage": "Emerging Middle-Order Star",
+    "historicalImportance": "Lifting the ultimate global title on home soil at Wankhede Stadium. Played a vital 35-run knock in the final to stabilize the chase after early wickets.",
+    "emotionalImpact": "Deep reverence, childhood dream fulfilled, lifting Sachin Tendulkar on shoulders, the birth of national expectations.",
+    "recommendedSection": "Life Journey (Chapter: THE DREAM BEGINS)"
+  },
+  "champions_trophy_2013": {
+    "trophyName": "ICC Champions Trophy",
+    "competition": "ICC Champions Trophy",
+    "year": "2013",
+    "careerStage": "Established All-Format Backbone",
+    "historicalImportance": "India's undefeated run in England. Top-scored in a rain-reduced final (43 off 34) against England to defend the title under immense pressure.",
+    "emotionalImpact": "Fierce confidence, proof of big-match temperament, building the core of India's golden limited-overs era.",
+    "recommendedSection": "ODI Kingdom (Section: ICC Champions Trophy)"
+  },
+  "test_mace_2018": {
+    "trophyName": "ICC Test Championship Mace",
+    "competition": "ICC Test Championship",
+    "year": "2018",
+    "careerStage": "Undisputed Test Captain & Red-Ball Pioneer",
+    "historicalImportance": "Held the No.1 ICC Test ranking for 5 consecutive years (2016-2021). Conquered conditions worldwide and revolutionized India's fast-bowling culture.",
+    "emotionalImpact": "Uncompromising dominance, steel, pride of the long format, captaincy pinnacle.",
+    "recommendedSection": "Test Cricket (Section: KING OF THE LONG FORMAT)"
+  },
+  "border_gavaskar_2018": {
+    "trophyName": "Border-Gavaskar Trophy",
+    "competition": "Border-Gavaskar Trophy Series",
+    "year": "2018-19",
+    "careerStage": "Tactical Mastermind & Overseas Conqueror",
+    "historicalImportance": "The first-ever Test series victory on Australian soil in Indian cricket history. Conquered the ultimate away challenge.",
+    "emotionalImpact": "History made, overseas vindication, silencing critics in their own backyard.",
+    "recommendedSection": "Test Cricket (Section: CONQUERING AUSTRALIA)"
+  },
+  "t20_world_cup_2024": {
+    "trophyName": "ICC Men's T20 World Cup",
+    "competition": "ICC Men's T20 World Cup",
+    "year": "2024",
+    "careerStage": "Legacy Veteran & Master Class Farewell",
+    "historicalImportance": "The ultimate T20 international closure. Top-scored with a crucial 76 in the final, securing the trophy for India and retiring at the absolute peak of T20Is.",
+    "emotionalImpact": "Mission complete, tears of joy, relief, the perfect emotional farewell to a format he dominated for a decade.",
+    "recommendedSection": "T20 Master (Final Chapter: MISSION COMPLETE)"
+  },
+  "champions_trophy_2025": {
+    "trophyName": "ICC Champions Trophy",
+    "competition": "ICC Champions Trophy",
+    "year": "2025",
+    "careerStage": "Legend Era / All-Format Icon",
+    "historicalImportance": "Lifting global ICC silverware in the ODI format once again, solidifying India's tournament dominance in the modern era.",
+    "emotionalImpact": "Fulfillment, redemption, kissing the silver prize at the tail end of his career.",
+    "recommendedSection": "Trophy Room / Legacy Section"
+  },
+  "rcb_trophy": {
+    "trophyName": "IPL Trophy",
+    "competition": "Indian Premier League",
+    "year": "2025-26",
+    "careerStage": "Franchise Legend & Fairy Tale Completion",
+    "historicalImportance": "Breaking the 17-year IPL drought. Guided RCB to back-to-back championship breakthroughs in 2025 and 2026, solidifying his eternal franchise legacy.",
+    "emotionalImpact": "Pure elation, tears of loyalty, Chinnaswamy explosion, the wait is finally over.",
+    "recommendedSection": "RCB Legacy (Section: THE WAIT IS OVER)"
+  }
+}

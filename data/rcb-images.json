@@ -1,0 +1,68 @@
+{
+  "photo1_sky_point": {
+    "match": "RCB Chapter I (Sky Point)",
+    "year": "2016",
+    "tournament": "Indian Premier League",
+    "emotion": "Faith, gratitude, unwavering passion, determination",
+    "composition": "High-contrast action shot. Looking up towards the heavens with his glove raised, holding his red helmet and bat close to his chest.",
+    "facePosition": "Center, looking up.",
+    "bestCrop": "Container mode (object-contain) to prevent cropping his head or bat.",
+    "bestFocalPoint": "Center top.",
+    "bestLayout": "65-70% Left Image Panel / 30-35% Right Text Panel"
+  },
+  "photo2_bat_point": {
+    "match": "RCB Chapter II (Bat Point / Aura)",
+    "year": "2016",
+    "tournament": "Indian Premier League",
+    "emotion": "Confidence, dominance, supreme composure, victorious smile",
+    "composition": "Intimate front-facing medium shot. The bat points straight at the camera with Virat's smiling face in background.",
+    "facePosition": "Center, smiling.",
+    "bestCrop": "Container mode (object-contain) to capture both the bat tip and Virat's full eyes & smile.",
+    "bestFocalPoint": "Center.",
+    "bestLayout": "65-70% Left Image Panel / 30-35% Right Text Panel"
+  },
+  "photo3_peak_2016": {
+    "match": "RCB Chapter III (2016 Green Jersey Peak)",
+    "year": "2016",
+    "tournament": "Indian Premier League",
+    "emotion": "Pure peak athletic triumph, roaring satisfaction, double fist pump, orange cap authority",
+    "composition": "Featured movie poster framing. Virat in RCB green jersey raising his bat high in his right hand, helmet in left, looking forward with focus.",
+    "facePosition": "Center, looking forward with a triumphant expression.",
+    "bestCrop": "Container mode (object-contain) to show the full jersey sponsor, bat brand, and his face.",
+    "bestFocalPoint": "Center (eyes and smile).",
+    "bestLayout": "65-70% Left Image Panel / 30-35% Right Text Panel"
+  },
+  "photo4_breakthrough_2025": {
+    "match": "RCB Chapter IV (2025 Champions with ABD & Gayle)",
+    "year": "2025",
+    "tournament": "Indian Premier League",
+    "emotion": "Release of 17 years of tension, breakthrough, franchise union, unbridled joy",
+    "composition": "Vibrant floodlight shot. Unites Virat, ABD, and Chris Gayle raising the trophy together under gold confetti.",
+    "facePosition": "Center-left (Virat next to ABD and Gayle).",
+    "bestCrop": "Container mode (object-contain) to keep all three legends and the trophy fully in the frame.",
+    "bestFocalPoint": "Center (trophy and expressions).",
+    "bestLayout": "65-70% Left Image Panel / 30-35% Right Text Panel"
+  },
+  "photo5_defending_2026": {
+    "match": "RCB Chapter V (2026 Team Champions on Grass)",
+    "year": "2026",
+    "tournament": "Indian Premier League",
+    "emotion": "Elation, completions, double-crown confidence, playful peace sign",
+    "composition": "Wide documentary outfield shot. Virat lies on the grass with the IPL trophy flashing a peace sign, team celebrating behind.",
+    "facePosition": "Lower foreground, centered.",
+    "bestCrop": "Container mode (object-contain) to prevent cropping Virat on the grass or teammates behind.",
+    "bestFocalPoint": "Bottom center.",
+    "bestLayout": "65-70% Left Image Panel / 30-35% Right Text Panel"
+  },
+  "photo6_finale_kiss": {
+    "match": "RCB Chapter VI (Legacy Finale Kiss)",
+    "year": "2025-2026",
+    "tournament": "Indian Premier League",
+    "emotion": "Serenity, peace, fulfillment, ultimate gratitude, worth the wait",
+    "composition": "High-contrast close-up profile. Smooth lighting reflecting off the silver trophy as Virat kisses it with closed eyes.",
+    "facePosition": "Center-right profile, head tilted.",
+    "bestCrop": "Container mode (object-contain) to show the emotional connection between his face and the trophy.",
+    "bestFocalPoint": "Center (kiss point).",
+    "bestLayout": "65-70% Left Image Panel / 30-35% Right Text Panel"
+  }
+}

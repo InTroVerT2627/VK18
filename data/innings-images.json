@@ -1,0 +1,35 @@
+{
+  "innings_183_pak": {
+    "match": "183 vs Pakistan",
+    "year": "2012",
+    "tournament": "Asia Cup",
+    "emotion": "Pure spiritual release, gratitude, roaring belief, announcement of destiny",
+    "composition": "Centered portrait framing. Virat looks skyward, lifting both hands - bat in right hand, helmet in left.",
+    "facePosition": "Center-top, chin lifted, looking up.",
+    "bestCrop": "Container mode (object-contain) to prevent cropping the raised bat and helmet.",
+    "bestFocalPoint": "Center top (face and eyes looking upward).",
+    "bestLayout": "65% Image Panel (Featured Poster style) on Left, 35% Story & Stats Panel on Right."
+  },
+  "innings_82_pak": {
+    "match": "82* vs Pakistan",
+    "year": "2022",
+    "tournament": "ICC Men's T20 World Cup",
+    "emotion": "Ecstasy, relief, deep spiritual connection, absolute victory",
+    "composition": "Dynamic vertical portrait. Virat points his index finger high in gratitude, face lifted skyward.",
+    "facePosition": "Upper third center, side-profile eyes looking up.",
+    "bestCrop": "Container mode (object-contain) to show his full bicep tattoo, raised finger, and face.",
+    "bestFocalPoint": "Center-right (face/eyes/beard).",
+    "bestLayout": "65% Image Panel (Featured Poster style) on Left, 35% Story & Stats Panel on Right."
+  },
+  "innings_133_sl": {
+    "match": "133* vs Sri Lanka",
+    "year": "2012",
+    "tournament": "Commonwealth Bank Series (Hobart)",
+    "emotion": "Raw athletic aggression, dominance, kinetic release, screaming joy",
+    "composition": "Diagonal dynamic action shot. Virat swings his bat backwards with one hand, mouth wide in a roar.",
+    "facePosition": "Upper third center, facing forward-left in a roar.",
+    "bestCrop": "Container mode (object-contain) to display the full swing arc of his bat and helmet in hand.",
+    "bestFocalPoint": "Center-left (face and open mouth roar).",
+    "bestLayout": "65% Image Panel (Featured Poster style) on Left, 35% Story & Stats Panel on Right."
+  }
+}

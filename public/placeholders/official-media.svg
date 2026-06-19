@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <rect width="1600" height="900" fill="#020617"/>
+  <rect x="40" y="40" width="1520" height="820" rx="32" fill="url(#paint0_linear)" stroke="rgba(255,255,255,0.14)"/>
+  <circle cx="1292" cy="155" r="120" fill="#FACC15" fill-opacity="0.10"/>
+  <path d="M0 650C267 520 533 520 800 650C1067 780 1333 780 1600 650V900H0V650Z" fill="#1D4ED8" fill-opacity="0.08"/>
+  <text x="110" y="690" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="6">OFFICIAL IMAGE UNAVAILABLE</text>
+  <text x="110" y="760" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="28" letter-spacing="3">USE LICENSED ICC / BCCI / IPL / RCB / GETTY / REUTERS / AP / OFFICIAL KOHLI MEDIA</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="800" y1="40" x2="800" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,82 @@
+{
+  "lastUpdated": "2026-06-04",
+  "verifiedSources": [
+    "ICC player features and rankings coverage",
+    "ESPNcricinfo Statsguru career aggregates",
+    "BCCI historical records",
+    "IPL official records and season summaries"
+  ],
+  "formats": {
+    "Test": {
+      "matches": 123,
+      "innings": 210,
+      "runs": 9230,
+      "highestScore": "254*",
+      "average": 46.85,
+      "strikeRate": 55.58,
+      "hundreds": 30,
+      "fifties": 31,
+      "doubleHundreds": 7,
+      "homeAwayRuns": {
+        "home": 4871,
+        "away": 4359
+      },
+      "countryRuns": [
+        { "team": "Australia", "runs": 2232 },
+        { "team": "England", "runs": 1991 },
+        { "team": "Sri Lanka", "runs": 1991 },
+        { "team": "South Africa", "runs": 1408 },
+        { "team": "West Indies", "runs": 959 }
+      ]
+    },
+    "ODI": {
+      "matches": 311,
+      "innings": 299,
+      "runs": 14797,
+      "highestScore": 183,
+      "average": 58.72,
+      "strikeRate": 93.83,
+      "hundreds": 54,
+      "fifties": 77,
+      "worldCupRuns": 1795,
+      "chaseAverage": 64.5,
+      "countryRuns": [
+        { "team": "Sri Lanka", "runs": 2652 },
+        { "team": "Australia", "runs": 2544 },
+        { "team": "West Indies", "runs": 2261 },
+        { "team": "England", "runs": 2095 },
+        { "team": "South Africa", "runs": 1878 }
+      ]
+    },
+    "T20I": {
+      "matches": 125,
+      "innings": 117,
+      "runs": 4188,
+      "highestScore": "122*",
+      "average": 48.69,
+      "strikeRate": 137.05,
+      "hundreds": 1,
+      "fifties": 38,
+      "worldCupRuns": 1292,
+      "boundaries": 398
+    },
+    "IPL": {
+      "matches": 283,
+      "innings": 275,
+      "runs": 9336,
+      "highestScore": 113,
+      "average": 40.42,
+      "strikeRate": 134.8,
+      "hundreds": 9,
+      "fifties": 68,
+      "orangeCapSeasons": 2,
+      "teamRuns": [
+        { "team": "CSK", "runs": 1146 },
+        { "team": "KKR", "runs": 1021 },
+        { "team": "PBKS", "runs": 1080 },
+        { "team": "MI", "runs": 901 },
+        { "team": "RR", "runs": 811 }
+      ]
+    }
+  }
+}
